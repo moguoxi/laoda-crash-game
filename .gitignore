@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+*.spec
+
+# Build outputs (except docs)
+build/
+dist/
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# Large game source files
+*.py
+!docs/
+
+# Template files
+*.tmpl
+
+# Assets (already in docs)
+fonts/
+images/
+sounds/
+资源/
+
+# Other
+tempCodeRunnerFile.py
+过往版本代码/
+v1.0.*/
+
+# Claude
+.claude/

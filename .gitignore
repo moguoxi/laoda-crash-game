@@ -34,3 +34,10 @@ v1.0.*/
 
 # Claude
 .claude/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
